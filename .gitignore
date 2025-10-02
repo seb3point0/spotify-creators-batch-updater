@@ -1,0 +1,10 @@
+# Environment variables (contains sensitive data)
+.env
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
