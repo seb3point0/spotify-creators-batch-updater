@@ -1,4 +1,4 @@
-# Spotify Episode Update Script
+# Spotify Creators Update Script
 
 A flexible script to update Spotify podcast episode metadata using a CSV file.
 
