@@ -1,4 +1,4 @@
-# Spotify Episode Update Script - Modular Version
+# Spotify Episode Update Script
 
 A flexible script to update Spotify podcast episode metadata using a CSV file.
 
